@@ -31,3 +31,13 @@ also
 3) js package manager
 
 
+
+hero is the template engine I'd like to use.
+
+but my gopath  is fucked
+
+how do I connect nginx to go..
+
+dream good
+
+
