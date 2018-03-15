@@ -1,26 +1,25 @@
 so this is my golang website
 
-made a docker file 3am 2018-03-10 Sat 02:53 AM
+2018-03-14 Wed 10:31 PM
 
-I love this ctrld thing
+decided to use revel for the backend
 
-I'll populate it later, I have the correct shit installed
+decided to use angular 2/5 for the frontend
 
-so I should set up a dockerfile for what I want 
+started using atom, I will definitely use it for golang
 
-basically, just
+started using atom for angular and then I found out that
+angular has a special IDE
 
-*) go
-*) nginx
-*) js libraries
-*) go libraries
-*) updated sovanilla from github
-*) postgresql
+so getting that installed was impossible
 
-so the website has to take a http request.
+and then importing the angular project that I created was impossible
 
-in the request there will be data
+but finally I got it imported, and as I was looking through the
+list of node_modules I found that amqplib is installed by default.
 
-what data.  I have no idea what data comes in during a http request.
+so rabbitmq was built in by default for some reason.
 
-using angular 
+2018-03-14 Wed 10:33 PM
+
+

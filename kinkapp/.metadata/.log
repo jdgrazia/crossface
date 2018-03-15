@@ -1,0 +1,62 @@
+!SESSION 2018-03-14 21:57:40.784 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.genuitec.eclipse.modernweb.angular2.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.genuitec.eclipse.modernweb.angular2.ui.product
+
+!ENTRY org.eclipse.ui 2 0 2018-03-14 21:58:52.246
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-03-14 21:58:52.246
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2018-03-14 21:58:55.164
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2018-03-14 21:58:55.194
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY com.genuitec.eclipse.modernweb.angular2.core 4 0 2018-03-14 21:59:06.037
+!MESSAGE Unexpected end of input at 1:-1
+!STACK 0
+com.eclipsesource.json.ParseException: Unexpected end of input at 1:-1
+	at com.eclipsesource.json.JsonParser.error(JsonParser.java:379)
+	at com.eclipsesource.json.JsonParser.expected(JsonParser.java:370)
+	at com.eclipsesource.json.JsonParser.readValue(JsonParser.java:108)
+	at com.eclipsesource.json.JsonParser.parse(JsonParser.java:73)
+	at com.eclipsesource.json.Json.parse(Json.java:295)
+	at com.genuitec.eclipse.modernweb.angular2.core.cli.NGCLIIntegrationWebsocketServer$RequestProcessor.internalProcessData(NGCLIIntegrationWebsocketServer.java:144)
+	at com.genuitec.eclipse.modernweb.angular2.core.cli.NGCLIIntegrationWebsocketServer$RequestProcessor.run(NGCLIIntegrationWebsocketServer.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.genuitec.eclipse.modernweb.angular2.core 4 0 2018-03-14 21:59:06.039
+!MESSAGE Unable to find server connection, registerServer must be called before buildStatus
+
+!ENTRY org.eclipse.egit.core 4 0 2018-03-14 22:01:07.158
+!MESSAGE Connecting Git team provider failed. See log for details.
+!SUBENTRY 1 org.eclipse.egit.core 4 0 2018-03-14 22:01:07.158
+!MESSAGE Error connecting project kinkapp2, no Git repositories found
+!SESSION 2018-03-14 22:12:13.752 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.genuitec.eclipse.modernweb.angular2.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.genuitec.eclipse.modernweb.angular2.ui.product
+
+!ENTRY com.genuitec.eclipse.modernweb.angular2.core 4 0 2018-03-14 22:13:04.705
+!MESSAGE Unexpected end of input at 1:-1
+!STACK 0
+com.eclipsesource.json.ParseException: Unexpected end of input at 1:-1
+	at com.eclipsesource.json.JsonParser.error(JsonParser.java:379)
+	at com.eclipsesource.json.JsonParser.expected(JsonParser.java:370)
+	at com.eclipsesource.json.JsonParser.readValue(JsonParser.java:108)
+	at com.eclipsesource.json.JsonParser.parse(JsonParser.java:73)
+	at com.eclipsesource.json.Json.parse(Json.java:295)
+	at com.genuitec.eclipse.modernweb.angular2.core.cli.NGCLIIntegrationWebsocketServer$RequestProcessor.internalProcessData(NGCLIIntegrationWebsocketServer.java:144)
+	at com.genuitec.eclipse.modernweb.angular2.core.cli.NGCLIIntegrationWebsocketServer$RequestProcessor.run(NGCLIIntegrationWebsocketServer.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.genuitec.eclipse.modernweb.angular2.core 4 0 2018-03-14 22:13:04.711
+!MESSAGE Unable to find server connection, registerServer must be called before buildStatus

@@ -1,43 +1,27 @@
-# Welcome to Revel
+# Kinkapp2
 
-A high-productivity web framework for the [Go language](http://www.golang.org/).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
+## Development server
 
-### Start the web server:
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-   revel run myapp
+## Code scaffolding
 
-### Go to http://localhost:9000/ and you'll see:
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-    "It works"
+## Build
 
-## Code Layout
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-The directory structure of a generated Revel application:
+## Running unit tests
 
-    conf/             Configuration directory
-        app.conf      Main app configuration file
-        routes        Routes definition file
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-    app/              App sources
-        init.go       Interceptor registration
-        controllers/  App controllers go here
-        views/        Templates directory
+## Running end-to-end tests
 
-    messages/         Message files
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-    public/           Public static assets
-        css/          CSS files
-        js/           Javascript files
-        images/       Image files
+## Further help
 
-    tests/            Test suites
-
-
-## Help
-
-* The [Getting Started with Revel](http://revel.github.io/tutorial/gettingstarted.html).
-* The [Revel guides](http://revel.github.io/manual/index.html).
-* The [Revel sample apps](http://revel.github.io/examples/index.html).
-* The [API documentation](https://godoc.org/github.com/revel/revel).
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
