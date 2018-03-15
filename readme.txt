@@ -28,4 +28,6 @@ accidentally deleted revel backend.
 
 rebuilt revel, placed angular into proper js directory
 
+2018-03-14 Wed 10:58 PM
 
+rebuilt the angular-ide project in new spot
