@@ -22,4 +22,10 @@ so rabbitmq was built in by default for some reason.
 
 2018-03-14 Wed 10:33 PM
 
+2018-03-14 Wed 10:50 PM
+
+accidentally deleted revel backend.
+
+rebuilt revel, placed angular into proper js directory
+
 
