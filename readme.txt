@@ -35,3 +35,9 @@ rebuilt the angular-ide project in new spot
 2018-03-15 Thu 09:15 PM
 
 gave crossface a name
+
+2018-03-15 Thu 10:19 PM
+
+rerouted allll of the gopaths, brought in new go, reinstalled revel and amqp
+
+imported amqp into init.go
