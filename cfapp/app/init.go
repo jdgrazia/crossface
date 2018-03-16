@@ -2,6 +2,7 @@ package app
 
 import (
 	"github.com/revel/revel"
+	"github.com/streadway/amqp"
 )
 
 var (
