@@ -22577,7 +22577,7 @@
 39881 warn notsup Not compatible with your operating system or architecture: fsevents@1.1.3
 39882 verbose stack Error: EACCES: permission denied, access '/usr/local/lib'
 39882 verbose stack     at Error (native)
-39883 verbose cwd /home/joe/projects/kink
+39883 verbose cwd /home/joe/projects/cfapp
 39884 error Linux 4.13.0-32-generic
 39885 error argv "/usr/bin/nodejs" "/usr/bin/npm" "install" "-g" "@angular/cli"
 39886 error node v4.2.6

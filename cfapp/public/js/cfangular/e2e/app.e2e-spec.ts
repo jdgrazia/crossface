@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('kinkapp2 App', () => {
+describe('cfangular App', () => {
   let page: AppPage;
 
   beforeEach(() => {

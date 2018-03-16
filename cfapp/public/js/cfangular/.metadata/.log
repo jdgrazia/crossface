@@ -36,7 +36,7 @@ com.eclipsesource.json.ParseException: Unexpected end of input at 1:-1
 !ENTRY org.eclipse.egit.core 4 0 2018-03-14 22:01:07.158
 !MESSAGE Connecting Git team provider failed. See log for details.
 !SUBENTRY 1 org.eclipse.egit.core 4 0 2018-03-14 22:01:07.158
-!MESSAGE Error connecting project kinkapp2, no Git repositories found
+!MESSAGE Error connecting project cfangular, no Git repositories found
 !SESSION 2018-03-14 22:12:13.752 -----------------------------------------------
 eclipse.buildId=unknown
 java.version=1.8.0_151
