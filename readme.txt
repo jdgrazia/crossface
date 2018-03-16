@@ -31,3 +31,7 @@ rebuilt revel, placed angular into proper js directory
 2018-03-14 Wed 10:58 PM
 
 rebuilt the angular-ide project in new spot
+
+2018-03-15 Thu 09:15 PM
+
+gave crossface a name
